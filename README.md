@@ -8,30 +8,30 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
 I’m a **DevOps Developer at [Clarinox Technologies Pty Ltd](https://www.clarinox.com/)** with strong expertise in **Linux systems**, **PHP**, and **cloud infrastructure**.  
 I focus on building **robust**, **scalable**, and **efficient** IT environments that empower development teams and ensure reliability in production systems.
 
-- 🚀 Experienced in **Backend Development**, **System Administration**, and **Cloud Infrastructure**.  
-- ☁️ Skilled in **AWS** ecosystem, with a focus on scalability and automation.  
-- 🛠️ Strong background in **CI/CD**, **Containerization**, and **Infrastructure as Code (IaC)**.  
-- 💡 Passionate about **problem-solving**, **system optimization**, and **continuous improvement**.  
-- 🤝 Open to collaboration on **DevOps**, **Backend**, or **Cloud-Native** projects.  
-- ✉️ Reach me at **hello@kurtulusoz.com.tr**.
+- Experienced in **Backend Development**, **System Administration**, and **Cloud Infrastructure**.  
+- Skilled in **AWS** ecosystem, with a focus on scalability and automation.  
+- Strong background in **CI/CD**, **Containerization**, and **Infrastructure as Code (IaC)**.  
+- Passionate about **problem-solving**, **system optimization**, and **continuous improvement**.  
+- Open to collaboration on **DevOps**, **Backend**, or **Cloud-Native** projects.  
+- Reach me at **hello@kurtulusoz.com.tr**.
 
 ---
 
-### 🔭 Current Focus & Goals
+### Current Focus & Goals
 
-- 🔭 I'm currently working on **cloud-native distributed architectures** — integrating **Kubernetes**, **AWS**, and **Logstash-based pipelines** to enable scalable analytics and observability.  
-- 🌱 I’m currently learning **advanced Kubernetes administration**, **AWS Solution Architect** concepts, and **infrastructure security best practices**.  
-- 💡 I specialize in **DevOps automation**, **backend systems**, and **high-availability infrastructure design**.  
-- 🤝 I’m looking to collaborate on **open-source DevOps tools**, **monitoring systems**, and **backend microservices** that push performance and scalability boundaries.
+- I'm currently working on **cloud-native distributed architectures** — integrating **Kubernetes**, **AWS**, and **Logstash-based pipelines** to enable scalable analytics and observability.  
+- I’m currently learning **advanced Kubernetes administration**, **AWS Solution Architect** concepts, and **infrastructure security best practices**.  
+- I specialize in **DevOps automation**, **backend systems**, and **high-availability infrastructure design**.  
+- I’m looking to collaborate on **open-source DevOps tools**, **monitoring systems**, and **backend microservices** that push performance and scalability boundaries.
 
 ---
 
-### 🛠️ My Core Tech Stack
+### My Core Tech Stack
 
 | Category | Technologies |
 | :---: | :--- |
@@ -54,7 +54,7 @@ I focus on building **robust**, **scalable**, and **efficient** IT environments 
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 | Project Name | Description | Tech Stack | Live Demo / Repository |
 | :---: | :--- | :---: | :---: |
@@ -64,7 +64,7 @@ I focus on building **robust**, **scalable**, and **efficient** IT environments 
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://kurtulusoz.com.tr">
